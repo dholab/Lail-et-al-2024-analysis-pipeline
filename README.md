@@ -2,6 +2,11 @@
 
 [![Nextflow](https://img.shields.io/badge/nextflow%20DSL2-%E2%89%A522.10.1-23aa62.svg)](https://www.nextflow.io/) [![run with docker](https://img.shields.io/badge/run%20with-docker-0db7ed?labelColor=000000&logo=docker)](https://www.docker.com/) [![run with singularity](https://img.shields.io/badge/run%20with-singularity-1d355c.svg?labelColor=000000)](https://sylabs.io/docs/) [![Docker CI](https://github.com/nrminor/oneroof/actions/workflows/docker-image.yaml/badge.svg)](https://github.com/nrminor/oneroof/actions/workflows/docker-image.yaml)
 
+> [!NOTE]
+>
+> This is a read-only fork of [nrminor/oneroof](https://github.com/nrminor/oneroof) meant to record the state of the repo during the preparation of the manuscript [Lail et al. 2024, _Sequencing RNA from pasteurized retail dairy enables genomic surveillance of H5N1 avian influenza in United States cattle_](https://www.medrxiv.org/content/10.1101/2024.12.12.24318872). If you would like to use the pipeline yourself for anything other than reproducing that study's findings, we recommend you checkout the actively maintained original repo at [nrminor/oneroof](https://github.com/nrminor/oneroof).
+> 
+
 - [Overview](#overview)
 - [Quick Start](#quick-start)
 - [Detailed Setup Instructions](#detailed-setup-instructions)
